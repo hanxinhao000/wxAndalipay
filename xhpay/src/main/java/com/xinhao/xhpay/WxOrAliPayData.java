@@ -99,16 +99,15 @@ public class WxOrAliPayData {
 
     //微信AppId
     public static final String WE_CHAT_APP_ID  = "";
-    //微信SECRET
-   // public static final String WE_CHAT_APP_SECRET = "";
+ 
     //微信秘钥
     public static final String WE_PRIVATE_KEY ="";
     //商户号
     public static final String MCH_ID = "";
     //微信统一下单接口
-    public static final String UNIFIED_ORDER = "";
+    public static final String UNIFIED_ORDER = "https://api.mch.weixin.qq.com/pay/unifiedorder";
     //接受的回调地址
-    public static final String URL = "";
+    public static final String URL = "www.suibian.com";
 
 
 }
