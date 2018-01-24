@@ -107,7 +107,7 @@ public class WxOrAliPayData {
     //微信统一下单接口
     public static final String UNIFIED_ORDER = "https://api.mch.weixin.qq.com/pay/unifiedorder";
     //接受的回调地址
-    public static final String URL = "www.suibian.com";
+    public static final String URL = "www.baidu.com";
 
 
 }
